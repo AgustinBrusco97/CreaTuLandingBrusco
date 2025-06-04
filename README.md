@@ -18,19 +18,7 @@ Este proyecto demuestra el uso correcto de componentes React y props. Incluye:
 * *Uso correcto de Props*: Implementación de props para comunicación entre componentes  
 * *Arquitectura jerárquica*: Organización correcta App → NavBar/ItemListContainer, NavBar → CartWidget
 
-## ✅ Criterios de Evaluación Cumplidos
-
-| Aspecto | Descripción | Estado |
-|---------|-------------|---------|
-| *Convenciones* | Respeta las consignas asignadas | ✅ Implementado |
-| *Componente NavBar* | Muestra el brandname de la tienda, categorías de productos y CartWidget | ✅ Implementado |
-| *Componente CartWidget* | Muestra el ícono de carrito y burbuja de notificación con valor estático | ✅ Implementado |
-| *Componente ItemListContainer* | Se renderiza debajo de NavBar como hijo de App. Renderiza un texto asignado como props | ✅ Implementado |
-
-
 ### Uso de Props
-
-
 
 ## 🛠️ Tecnologías Utilizadas
 
